@@ -1,0 +1,26 @@
+{
+  "name": "tober_backend",
+  "version": "1.0.0",
+  "description": "Backend For a video Streaming app",
+  "main": "server.js",
+  "scripts": {
+    "dev": " nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuvronilmondal3/Tober_backend.git"
+  },
+  "author": "Shuvronil Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuvronilmondal3/Tober_backend/issues"
+  },
+  "homepage": "https://github.com/shuvronilmondal3/Tober_backend#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
